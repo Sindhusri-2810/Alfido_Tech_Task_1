@@ -1,0 +1,30 @@
+Java OOP Concepts
+
+1. Class and Object
+
+A class is a blueprint for creating objects. An object is an instance of a class.
+
+Example: Student is a class, and s1 is an object.
+
+2. Encapsulation
+
+Encapsulation means wrapping data and methods into a single unit. We use private variables and public getters and setters.
+
+3. Inheritance
+
+Inheritance allows one class to acquire the properties and methods of another class.
+
+Example: Student extends Person.
+
+4. Polymorphism
+
+Polymorphism means one method can perform different behaviours.
+
+Types:
+
+- Method Overloading
+- Method Overriding
+
+Conclusion
+
+This task helped me understand Java basics and OOP concepts through practical programs.
